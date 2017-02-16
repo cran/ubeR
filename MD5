@@ -1,4 +1,4 @@
-3aa21a46d0367b0f135c4e16cb0bd998 *DESCRIPTION
+25c7557b4198fb5a4f5049fad158a7b5 *DESCRIPTION
 ad2100bd00ed5b5b6acd978b6b16e1a1 *NAMESPACE
 7387da8769cb2fddc4ff4e7bf3a8afe2 *R/api.R
 158afda9ce2d3c9e2cd4de3cd403728d *R/authorise.R
@@ -30,4 +30,4 @@ c064fe6bf143c165f46a1416535449c3 *man/uber_products.Rd
 35ba8a4e7be16bd4eb68bf14ddb766ff *man/uber_requests_current_delete.Rd
 cb63cf3f350f262ea46861f68cb7650b *man/uber_requests_estimate.Rd
 4c47e5fdf03c245c2b635dad3dc5aea3 *tests/testthat.R
-da2189085b641552b5902b6ab5a9017f *tests/testthat/test_utils.R
+e496d5a99d246edfe419d5f69fcff70b *tests/testthat/test_utils.R
